@@ -17,4 +17,5 @@ https://www.embarcadero.com/free-tools/dev-cpp
 g++ -v
 
 Для компиляции программы: перейти в каталог с исходником и ввести в командную строку:
+
 g++ -std=c++11 -o encdel2.exe encdel2.cpp
