@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=2eSRuadzJxA
 
 Компилятор можно скачать отсюда:
 https://jmeubank.github.io/tdm-gcc/download/
+
 или отсюда:
 https://www.embarcadero.com/free-tools/dev-cpp
 
